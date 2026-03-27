@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "username": "ashish",
+        "password": "scrypt:32768:8:1$uDeDAUgZGjg19w83$e30ed000da3cd863c8a6808c11d04288b550d4fc12d5452aa16e2a68101b9f25b9b5198ac655eeeb5d3624a020a62ab3a9bf49fba2d6434c9cef0fb942f782a5"
+    },
+    {
+        "id": 2,
+        "username": "",
+        "password": "scrypt:32768:8:1$Sph99yrBeUmrRJl9$0d9830affd3e6d17da464dd257994d4c4742b109e7e894806a9c509b40eac6b6d50dcf24bfab8d58fa28267c409a24148bc8b64b38bc8d6c675367c788deeb48"
+    }
+]
